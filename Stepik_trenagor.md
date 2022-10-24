@@ -1,4 +1,4 @@
-Конспкт по стилю SQL
+Конспект по стилю SQL
 https://docs.google.com/document/d/10jdwGZlPCS2h-3YAipF6avtRN4LT41oRsoy_BzNCsmg/edit?usp=sharing
 
 Степик. Команды
